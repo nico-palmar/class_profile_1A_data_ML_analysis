@@ -45,12 +45,15 @@ Analysis Done Using
 
 2. ML/course_by_person.ipynb for my work on finding similar courses by clustering (TSNE + Kmeans)
 
+## Files 
+1. SYDE_2025_ML_Report_Nicolas.pdf for report containing results with insights explained
+
 -----
 
 
 ## Screenshots
 
-Here are screenshots of some of the graphs 
+**Refer to graphs folder if images do not load**
 
 Note: For analysis of the graphs, refer to **SYDE_2025_ML_Report_Nicolas.pdf** in the repo
 
@@ -69,5 +72,5 @@ Note: For analysis of the graphs, refer to **SYDE_2025_ML_Report_Nicolas.pdf** i
 ---- 
 
 ## Author 
-- This ML analysis was done by me - an aspiring data scientist who is always curious and looking to find insights in data 
+- This data analysis was done by me - an aspiring data scientist who is always curious and looking to find insights in data 
 - I would also like to thank Sean for introducing me to some of these concepts, as well as Nirmal and Alan for working with us on the data analysis for the rest of the project
