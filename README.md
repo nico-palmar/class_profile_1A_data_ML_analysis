@@ -8,7 +8,7 @@ This repo contains the analysis for sections that used **machine learning algori
 
 ----
 
-### Note: This is not the full repo. To see other visualizations created by me and the rest of the team, [click here](https://github.com/SYDE-25/Class-Profile1A-Data-Analysis)
+### Note: This is not the full repo; this repo only contains data analysis done by me using ML. To see other visualizations created by me and the rest of the team, [click here](https://github.com/SYDE-25/Class-Profile1A-Data-Analysis)
 
 ___ 
 
