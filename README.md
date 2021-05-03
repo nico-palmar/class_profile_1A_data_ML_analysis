@@ -6,6 +6,10 @@ The class profile is an analysis done on students in an engineering cohort (in t
 
 This repo contains the analysis for sections that used **machine learning algorithms** to find insights in the data
 
+----
+
+### Note: This is not the full repo. To see other visualizations created by me and the rest of the team, [click here](https://github.com/SYDE-25/Class-Profile1A-Data-Analysis)
+
 ___ 
 
 ## Motivation 
