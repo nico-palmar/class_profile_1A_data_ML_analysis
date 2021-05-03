@@ -59,15 +59,15 @@ Note: For analysis of the graphs, refer to **SYDE_2025_ML_Report_Nicolas.pdf** i
 
 - Feature Importance Graphs
 
-![SHAP 1](https://github.com/Nick-palmar/class_profile_1A_ML/blob/main/graphs/1A_shar_bar_good.png)
+![SHAP 1](https://github.com/Nick-palmar/class_profile_1A_data_ML_analysis/blob/main/graphs/1A_shar_bar_good.png)
 
-![SHAP 2](https://github.com/Nick-palmar/class_profile_1A_ML/blob/main/graphs/shap_graph_2.jpeg)
+![SHAP 2](https://github.com/Nick-palmar/class_profile_1A_data_ML_analysis/blob/main/graphs/shap_graph_2.jpeg)
 
 - TSNE and Kmeans course Clustering
 
-![TSNE by Course](https://github.com/Nick-palmar/class_profile_1A_ML/blob/main/graphs/1A_Course_TSNE.png)
+![TSNE by Course](https://github.com/Nick-palmar/class_profile_1A_data_ML_analysis/blob/main/graphs/1A_Course_TSNE.png)
 
-![TSNE by Cluster](https://github.com/Nick-palmar/class_profile_1A_ML/blob/main/graphs/1A_Cluster_TSNE.png)
+![TSNE by Cluster](https://github.com/Nick-palmar/class_profile_1A_data_ML_analysis/blob/main/graphs/1A_Cluster_TSNE.png)
 
 ---- 
 
